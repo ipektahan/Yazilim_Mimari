@@ -1,0 +1,13 @@
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\bin\Debug\netcoreapp3.1\YzmMimariFinal.exe
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\bin\Debug\netcoreapp3.1\YzmMimariFinal.deps.json
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\bin\Debug\netcoreapp3.1\YzmMimariFinal.runtimeconfig.json
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\bin\Debug\netcoreapp3.1\YzmMimariFinal.runtimeconfig.dev.json
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\bin\Debug\netcoreapp3.1\YzmMimariFinal.dll
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\bin\Debug\netcoreapp3.1\YzmMimariFinal.pdb
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.csprojAssemblyReference.cache
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.csproj.CoreCompileInputs.cache
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.AssemblyInfoInputs.cache
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.AssemblyInfo.cs
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.dll
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.pdb
+C:\Users\userr\source\repos\YzmMimariFinal\YzmMimariFinal\obj\Debug\netcoreapp3.1\YzmMimariFinal.genruntimeconfig.cache
